@@ -1,1 +1,18 @@
+# Site wide configuration
 theme: jekyll-theme-midnight
+
+
+title: Hayley Borck
+locale: en_US
+logo: # filename of a logo image that has been placed into your images directory
+
+# Enter the following platform usernames if you would like for them to appear on your site.
+owner:
+  name: Hayley Borck
+  avatar: bio-photo.jpg
+  bio: "This is a sample Jekyll academic website."
+  email: hayleyborck@gmail.com
+  # Do not include the @ symbol in your Twitter username
+  linkedin: hayleyborck
+  google:
+    scholar: #id
